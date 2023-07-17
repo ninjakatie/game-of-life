@@ -1,0 +1,30 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.cell {
+  border: 1px solid black;
+}
+
+.alive-cell {
+  border: 1px solid #b69853;
+  background: #b69853;
+}
+
+.button-parent {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.button {
+  padding: 10px;
+  margin: 5px;
+}
+
+.end {
+  margin: 10px;
+}

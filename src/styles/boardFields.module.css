@@ -1,0 +1,27 @@
+.root {
+  margin-top: 30px;
+  margin-bottom: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.form {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.input {
+  width: 50px;
+  margin: 10px;
+}
+
+.start {
+  padding: 10px;
+  width: 100px;
+  margin: 20px;
+}
